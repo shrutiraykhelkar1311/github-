@@ -1,0 +1,4 @@
+git stash------------------------------------------- (temporarily save your changes without committing them.  )
+git stash -m "added"--------------------------------(added stash in stash list )
+git stash list -------------------------------------(check stash list)
+git stash drop stash@{1} stash@{3}-------------------(delete stash)
